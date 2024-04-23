@@ -1,0 +1,2 @@
+# plannerApp
+Rails planner app 
